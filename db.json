@@ -1,0 +1,25 @@
+{
+    "cursos": [
+        {
+            "id": 1,
+            "titulo": "HTML desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/small/26557907-0555-427e-a40c-6ff207f98d72.png",
+            "price": 20,
+            "profesor": "Alvaro Felipe"
+        },
+        {
+            "id": 2,
+            "titulo": "React.js desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/small/f7dad9a6-e060-4305-9adf-b9a9079075de.jpg",
+            "price": 40,
+            "profesor": "Beto Quiroga"
+        },
+        {
+            "id": 3,
+            "titulo": "VIM desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/medium/59fbcbab-90ee-4971-b804-a29ca9d5f484.png",
+            "price": 20,
+            "profesor": "Alexis Lozada"
+        }
+    ]
+}
